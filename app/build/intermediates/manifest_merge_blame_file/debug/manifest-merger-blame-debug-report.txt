@@ -1,0 +1,92 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="fastcampus.part2.chapter4"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+8-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml:5:5-66
+11-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml:7:5-32:19
+14        android:allowBackup="true"
+14-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.8.0] C:\Users\sun14\.gradle\caches\transforms-3\205feb206244c8c1b4b56fcdc8d69988\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+16        android:dataExtractionRules="@xml/data_extraction_rules"
+16-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml:9:9-65
+17        android:debuggable="true"
+18        android:enableOnBackInvokedCallback="true"
+18-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml:15:9-51
+19        android:extractNativeLibs="false"
+20        android:fullBackupContent="@xml/backup_rules"
+20-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml:10:9-54
+21        android:icon="@mipmap/ic_launcher"
+21-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml:11:9-43
+22        android:label="@string/app_name"
+22-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml:12:9-41
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml:13:9-54
+24        android:supportsRtl="true"
+24-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml:14:9-35
+25        android:theme="@style/Theme.Part2chapter4" >
+25-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml:16:9-51
+26        <activity
+26-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml:18:9-30:20
+27            android:name="fastcampus.part2.chapter4.MainActivity"
+27-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml:19:13-41
+28            android:exported="true" >
+28-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml:20:13-36
+29            <intent-filter>
+29-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml:21:13-25:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml:22:17-69
+30-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml:22:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml:24:17-77
+32-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml:24:27-74
+33            </intent-filter>
+34
+35            <meta-data
+35-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml:27:13-29:36
+36                android:name="android.app.lib_name"
+36-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml:28:17-52
+37                android:value="" />
+37-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml:29:17-33
+38        </activity>
+39        <activity android:name="fastcampus.part2.chapter4.RepoActivity" />
+39-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml:31:9-49
+39-->C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\main\AndroidManifest.xml:31:19-47
+40
+41        <provider
+41-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sun14\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+42            android:name="androidx.startup.InitializationProvider"
+42-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sun14\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+43            android:authorities="fastcampus.part2.chapter4.androidx-startup"
+43-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sun14\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+44            android:exported="false" >
+44-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sun14\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+45            <meta-data
+45-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sun14\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+46                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+46-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sun14\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+47                android:value="androidx.startup" />
+47-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sun14\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+48            <meta-data
+48-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\sun14\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+49                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+49-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\sun14\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+50                android:value="androidx.startup" />
+50-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\sun14\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+51        </provider>
+52    </application>
+53
+54</manifest>

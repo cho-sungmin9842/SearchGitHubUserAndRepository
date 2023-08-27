@@ -1,0 +1,9 @@
+fastcampus.part2.chapter4.test.app-core-1.5.0-0 C:\Users\sun14\.gradle\caches\transforms-3\3be9fbd2504f0d58fdb6d1538a172410\transformed\core-1.5.0\res
+fastcampus.part2.chapter4.test.app-annotation-experimental-1.1.0-1 C:\Users\sun14\.gradle\caches\transforms-3\fb44608a9e1d20332c6690b5dda0b67e\transformed\annotation-experimental-1.1.0\res
+fastcampus.part2.chapter4.test.app-androidTest-2 C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\build\generated\res\resValues\androidTest\debug
+fastcampus.part2.chapter4.test.app-androidTest-3 C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\build\generated\res\rs\androidTest\debug
+fastcampus.part2.chapter4.test.app-mergeDebugAndroidTestResources-4 C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+fastcampus.part2.chapter4.test.app-mergeDebugAndroidTestResources-5 C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+fastcampus.part2.chapter4.test.app-merged_res-6 C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\build\intermediates\merged_res\debugAndroidTest
+fastcampus.part2.chapter4.test.app-androidTest-7 C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\androidTest\res
+fastcampus.part2.chapter4.test.app-androidTestDebug-8 C:\Users\sun14\AndroidStudioProjects\GitHubRepositorySearchApp\app\src\androidTestDebug\res

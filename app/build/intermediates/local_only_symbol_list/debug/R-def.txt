@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_baseline_fork_right_24
+drawable ic_baseline_star_outline_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id descriptionTextView
+id forkCountImageView
+id forkCountTextView
+id repoNameTextView
+id repoRecyclerView
+id searchEditText
+id starCountImageView
+id starCountTextView
+id userRecyclerView
+id usernameTextView
+layout activity_main
+layout activity_repo
+layout item_repo
+layout item_user
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string github_token
+style Theme.Part2chapter4
+xml backup_rules
+xml data_extraction_rules

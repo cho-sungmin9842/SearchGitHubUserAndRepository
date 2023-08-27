@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "fastcampus.part2.chapter4.app-mergeDebugResources-28:/layout/item_repo.xml",
+        "source": "fastcampus.part2.chapter4.app-main-31:/layout/item_repo.xml"
+    },
+    {
+        "merged": "fastcampus.part2.chapter4.app-mergeDebugResources-28:/layout/activity_repo.xml",
+        "source": "fastcampus.part2.chapter4.app-main-31:/layout/activity_repo.xml"
+    },
+    {
+        "merged": "fastcampus.part2.chapter4.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "fastcampus.part2.chapter4.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "fastcampus.part2.chapter4.app-mergeDebugResources-28:/layout/item_user.xml",
+        "source": "fastcampus.part2.chapter4.app-main-31:/layout/item_user.xml"
+    }
+]
